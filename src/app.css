@@ -1,0 +1,49 @@
+.form-label {
+    text-align: left!important;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+
+.f-left {
+    float: left;
+}
+
+.form {
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 1px solid rgba(0,0,0,0.2);
+}
+
+.form-input {
+    background-color: #ccc;
+    padding: 20px;
+}
+.active {
+    color: red;
+    font-weight: bold;
+}
+
+.icon-close {
+    position: absolute;
+    top: 4px;
+    right: 16px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.num-page {
+    width: 100px;
+    margin: 0 auto;
+}
+
+.num-page > span {
+    margin-right: 8px;
+}
